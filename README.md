@@ -7,14 +7,14 @@ This repository contains an interactive sales dashboard for Adidas sales data fo
 *    Comprehensive Visuals: Includes various charts and graphs to provide a detailed analysis of sales performance.
   
 ## Getting Started
-1.Prerequisites
+1. Prerequisites
 Microsoft Excel (2013 or later recommended)
 
-2.Installation
+2. Installation
 Clone the repository:
-*     git clone https://github.com/yourusername/adidas-2023-sales-dashboard.git
+*     git clone https://github.com/myusername/adidas-2023-sales-dashboard.git
 
-3.Open the Excel file:
+3. Open the Excel file:
 Navigate to the cloned repository folder and open Adidas_2023_Sales_Dashboard.xlsx.
 
 ## Dashboard Structure

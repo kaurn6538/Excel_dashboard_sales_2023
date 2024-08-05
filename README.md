@@ -12,7 +12,7 @@ Microsoft Excel (2013 or later recommended)
 
 2. Installation
 Clone the repository:
-*     git clone https://github.com/myusername/adidas-2023-sales-dashboard.git
+*     git clone https://github.com/kaurn6538/Excel_dashboard_sales_2023.git
 
 3. Open the Excel file:
 Navigate to the cloned repository folder and open Adidas_2023_Sales_Dashboard.xlsx.
